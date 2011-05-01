@@ -1,3 +1,5 @@
 bin
 gen
 res/values/mnocheck_loc_strings.xml
+.i18n_timestamp
+src2/i18n/.~lock.i18n.ods#
